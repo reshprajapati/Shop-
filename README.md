@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sanjib kirana store
 
 A React storefront and Express API for Sanjib kirana store, Suryabintyak, BKT.
@@ -30,3 +31,6 @@ Choose **Admin** in the storefront header and sign in with `ADMIN_EMAIL` and `AD
 Customers can submit their basket with their name, phone number, and delivery address. The API calculates prices from its own catalog rather than trusting browser-submitted totals. Product changes and orders are stored in `backend/data`; order data is excluded from Git because it contains customer details.
 
 The JSON files are suitable for local development only. Use a production database and HTTPS before making the store publicly available.
+=======
+# Shop-
+>>>>>>> b9327615816dfe0302e9c4c616c186ffeeadd46c
