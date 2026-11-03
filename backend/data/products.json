@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Apples",
+    "category": "fresh",
+    "price": 180,
+    "unit": "1kg",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?auto=format&fit=crop&w=900&q=80",
+    "tag": "Popular",
+    "description": "Crisp, juicy, and farm-fresh apples picked for the day."
+  },
+  {
+    "id": 2,
+    "name": "Spinach Leaves",
+    "category": "veggies",
+    "price": 70,
+    "unit": "500g",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=900&q=80",
+    "tag": "Fresh",
+    "description": "Green spinach bundles loaded with flavor and nutrients."
+  },
+  {
+    "id": 3,
+    "name": "Whole Milk",
+    "category": "dairy",
+    "price": 95,
+    "unit": "1L",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=900&q=80",
+    "tag": "Best Seller",
+    "description": "Pure farm milk for your morning coffee and desserts."
+  },
+  {
+    "id": 4,
+    "name": "Basmati Rice",
+    "category": "grains",
+    "price": 260,
+    "unit": "5kg",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+    "tag": "Premium",
+    "description": "Long-grain basmati rice known for aroma and texture."
+  },
+  {
+    "id": 5,
+    "name": "Masala Noodles",
+    "category": "snacks",
+    "price": 120,
+    "unit": "Pack",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=900&q=80",
+    "tag": "Quick Bite",
+    "description": "Instant spicy noodles for a warm and savory snack."
+  },
+  {
+    "id": 6,
+    "name": "Bananas",
+    "category": "fresh",
+    "price": 95,
+    "unit": "1 dozen",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?auto=format&fit=crop&w=900&q=80",
+    "tag": "Daily Choice",
+    "description": "Naturally sweet bananas perfect for breakfast or smoothies."
+  },
+  {
+    "id": 7,
+    "name": "Tomato Basket",
+    "category": "veggies",
+    "price": 85,
+    "unit": "1kg",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?auto=format&fit=crop&w=900&q=80",
+    "tag": "Local",
+    "description": "Fresh red tomatoes ideal for curries, salads, and juices."
+  },
+  {
+    "id": 8,
+    "name": "Paneer Cubes",
+    "category": "dairy",
+    "price": 220,
+    "unit": "400g",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=900&q=80",
+    "tag": "House Favorite",
+    "description": "Soft and rich paneer for curries, snacks, and grilling."
+  }
+]
